@@ -1,0 +1,219 @@
+{
+  "my_summary_doc": {
+    "token": "JcrFdIzddogqsBxwMCScDj3onQc",
+    "url": "https://www.feishu.cn/docx/JcrFdIzddogqsBxwMCScDj3onQc",
+    "title": "我的灵感汇总"
+  },
+  "boss_summary_doc": {
+    "token": "NzD9dalsmoXs7exgFZXc8V7dnNd",
+    "url": "https://www.feishu.cn/docx/NzD9dalsmoXs7exgFZXc8V7dnNd",
+    "title": "老板灵感汇总",
+    "last_updated": "2026-03-24T17:00:00+08:00"
+  },
+  "inspirations": [
+    {
+      "id": "insp_001",
+      "owner": "mine",
+      "title": "算力平权与数据优先",
+      "local_file": "memory/inbox/💡_2026-02-26-0015.md",
+      "recorded_at": "2026-02-26T00:15:00+08:00",
+      "tags": [
+        "产品创意",
+        "AI",
+        "算力平权",
+        "数据战略",
+        "企业竞争力"
+      ],
+      "report_url": "https://feishu.cn/docx/E2KXdTmWuoOiGLx785WcdLQanzb"
+    },
+    {
+      "id": "insp_002",
+      "owner": "mine",
+      "title": "平权时代的不可复制价值",
+      "local_file": "memory/inbox/💡_2026-02-26-1115.md",
+      "recorded_at": "2026-02-26T11:15:00+08:00",
+      "tags": [
+        "平权",
+        "AI 战略",
+        "企业竞争力",
+        "流程重构"
+      ],
+      "report_url": "https://feishu.cn/docx/IsEWdm4f2ogDhjxVql3cB0pbnjc"
+    },
+    {
+      "id": "insp_003",
+      "owner": "mine",
+      "title": "AI 时代 C 端产品销售模式变化",
+      "local_file": "memory/inbox/💡_2026-02-26-1430.md",
+      "recorded_at": "2026-02-26T14:30:00+08:00",
+      "tags": [
+        "AI",
+        "C 端",
+        "销售模式",
+        "B 端化",
+        "产品策略"
+      ],
+      "report_url": "https://feishu.cn/docx/IC4CdN7y9oz3EuxPo6GcR7Jhn0e"
+    },
+    {
+      "id": "insp_004",
+      "owner": "mine",
+      "title": "AI PC 的定义与硬件依赖矛盾",
+      "local_file": "memory/inbox/💡_2026-02-27-1456.md",
+      "recorded_at": "2026-02-27T14:56:00+08:00",
+      "tags": [
+        "AI PC",
+        "AI Agent",
+        "硬件定义",
+        "云端算力",
+        "软件定义硬件"
+      ],
+      "report_url": "https://feishu.cn/docx/SkH6doePUoipiFx3NyBcm0rDnLu"
+    },
+    {
+      "id": "insp_005",
+      "owner": "mine",
+      "title": "线下实体零售的核心竞争力",
+      "local_file": "memory/inbox/💡_2026-02-28-2308.md",
+      "recorded_at": "2026-02-28T23:08:00+08:00",
+      "tags": [
+        "零售",
+        "线下实体",
+        "核心竞争力",
+        "市场趋势",
+        "商业模式"
+      ],
+      "report_url": "https://feishu.cn/docx/CSp7dp2dhokLLtxdljlcOHkPnch",
+      "discussion_url": "https://feishu.cn/docx/K0iid1YSGoJMuAxwJYwc1uQrn4e",
+      "notes": "含18轮深度讨论"
+    },
+    {
+      "id": "insp_006",
+      "owner": "mine",
+      "title": "AI 焦虑与 IT 产品购买动机",
+      "local_file": "memory/inbox/💡_2026-03-01-1422.md",
+      "recorded_at": "2026-03-01T14:22:00+08:00",
+      "tags": [
+        "AI 焦虑",
+        "消费心理",
+        "IT 产品",
+        "购买动机",
+        "奢侈品类比",
+        "确定性"
+      ],
+      "discussion_url": "https://feishu.cn/docx/K0iid1YSGoJMuAxwJYwc1uQrn4e",
+      "notes": "从灵感#5 拆分，待验证假设"
+    },
+    {
+      "id": "insp_007",
+      "owner": "mine",
+      "title": "AI 对话中的角色分工——何时做答题者，何时做提问者",
+      "local_file": "memory/inbox/💡_2026-03-02-0917.md",
+      "recorded_at": "2026-03-02T09:17:00+08:00",
+      "tags": [
+        "AI 交互",
+        "角色定位",
+        "苏格拉底式提问",
+        "批判性思维",
+        "RAG"
+      ],
+      "report_url": "https://feishu.cn/docx/By0Wd06wOoRTguxZIaxcRlzUnzd"
+    },
+    {
+      "id": "insp_008",
+      "owner": "boss",
+      "title": "AI Agent 落地核心：SOP + 结构化数据 + 安全阀",
+      "local_file": "memory/inbox/📋_2026-03-23-1042.md",
+      "recorded_at": "2026-03-23T10:42:00+08:00",
+      "tags": [
+        "AI Agent",
+        "SOP",
+        "流程标准化",
+        "数据治理",
+        "企业数字化"
+      ],
+      "report_doc": {
+        "token": "Tcp6dZ9HzoweSyxQ1DbclSfYnif",
+        "url": "https://www.feishu.cn/docx/Tcp6dZ9HzoweSyxQ1DbclSfYnif",
+        "title": "调研报告 - AI Agent 落地核心 - 2026-03-23"
+      },
+      "notes": "Phase 1/2/3 行动建议"
+    },
+    {
+      "id": "insp_009",
+      "owner": "boss",
+      "title": "AI对五大群组的影响思考框架",
+      "local_file": "memory/inbox/📋_2026-03-24-1659.md",
+      "recorded_at": "2026-03-24T16:59:00+08:00",
+      "tags": [
+        "AI",
+        "五大群组",
+        "战略",
+        "思考框架"
+      ],
+      "notes": "围绕芯片、主板及系统、个人终端、企业解决方案、零售服务五个维度建立AI影响思考框架"
+    }
+  ],
+  "weekly_reports": [
+    {
+      "id": "w001",
+      "owner": "boss",
+      "title": "周报 · 3月第4周",
+      "period": "2026-03-23 至 2026-03-29",
+      "doc_token": "JoMPd7tAVoUKOix2Mk2cbsXXnBd",
+      "doc_url": "https://www.feishu.cn/docx/JoMPd7tAVoUKOix2Mk2cbsXXnBd",
+      "created_at": "2026-03-24T10:23:00+08:00",
+      "inspiration_ids": [
+        "insp_008"
+      ]
+    },
+    {
+      "id": "w002",
+      "owner": "boss",
+      "title": "周报 · 3月第4周（段落式版）",
+      "period": "2026-03-23 至 2026-03-29",
+      "doc_token": "WTNbdHIcZorrYMxgFzic2tBqnng",
+      "doc_url": "https://www.feishu.cn/docx/WTNbdHIcZorrYMxgFzic2tBqnng",
+      "created_at": "2026-03-24T10:31:00+08:00",
+      "inspiration_ids": [
+        "insp_008"
+      ]
+    },
+    {
+      "id": "w003",
+      "owner": "boss",
+      "title": "周报 · 3月第4周",
+      "period": "2026-03-23 至 2026-03-29",
+      "doc_token": "Krxzdlj8moSNFIxcsjicET6vn6c",
+      "doc_url": "https://www.feishu.cn/docx/Krxzdlj8moSNFIxcsjicET6vn6c",
+      "created_at": "2026-03-24T10:37:00+08:00",
+      "inspiration_ids": [
+        "insp_008"
+      ]
+    },
+    {
+      "id": "w004",
+      "owner": "mine",
+      "title": "2月第4周",
+      "period": "2026-02-23 至 2026-03-01",
+      "doc_token": "N9Y1dOei8olCUlx85SecZeApnHd",
+      "doc_url": "https://www.feishu.cn/docx/N9Y1dOei8olCUlx85SecZeApnHd",
+      "created_at": "2026-03-24T10:52:00+08:00",
+      "inspiration_ids": [
+        "insp_004"
+      ]
+    },
+    {
+      "id": "w005",
+      "owner": "boss",
+      "title": "周报 · 关于AI PC的定义（老板风格）",
+      "period": "2026-02-23 至 2026-03-01",
+      "doc_token": "Q53ldvnX9ottu0xXHeicGkyWnDb",
+      "doc_url": "https://www.feishu.cn/docx/Q53ldvnX9ottu0xXHeicGkyWnDb",
+      "created_at": "2026-03-24T11:01:00+08:00",
+      "inspiration_ids": [
+        "insp_004"
+      ]
+    }
+  ]
+}
